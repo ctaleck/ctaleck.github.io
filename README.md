@@ -1,4 +1,4 @@
-ct-blog
+ctaleck.github.io
 =======
 
-A quick Jekyll blog
+A quick blog
